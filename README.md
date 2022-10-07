@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/jaeparkim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://jaeparkim.github.io">
+    <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=git&logoColor=white" alt="Website Badge"/>
+  </a>
   <a href="https://www.youtube.com/playlist?list=PLMIh1GQbDgZYdhB-QFYN-PBjHK9aodBTv">
     <img src="https://img.shields.io/badge/playlist-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
