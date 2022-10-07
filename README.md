@@ -22,7 +22,7 @@
   <a href="https://www.youtube.com/playlist?list=PLMIh1GQbDgZYdhB-QFYN-PBjHK9aodBTv">
     <img src="https://img.shields.io/badge/playlist-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.youtube.com/playlist?list=PLMIh1GQbDgZYdhB-QFYN-PBjHK9aodBTv">
+  <a href="https://soundcloud.com/jaepark1104">
     <img src="https://img.shields.io/badge/playlist-orange?style=for-the-badge&logo=soundcloud&logoColor=gray" alt="Soundcloud Badge"/>
   </a>
 </div>
