@@ -1,7 +1,6 @@
 [![GitHub profile of @jaeparkim](https://user-images.githubusercontent.com/9361180/89604434-fd00dc80-d88a-11ea-90b2-2132e1e11308.gif)](https://github.com/jaeparkim)
 
 ---
-### Heelo World 👋
 
 🔭 I’m currently working on
 - Temporal Knowledge Graph (TKGs) for Natural Language Processing
