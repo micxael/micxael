@@ -3,8 +3,8 @@
 ---
 
 🔭 I’m currently working on
-- Temporal Knowledge Graph (TKGs) for Natural Language Processing
-- Quantum Natural Language Processing (QNLP) for Fake News Identification 
+- Product Manager at Dragonfruit AI
+- Research on Temporal Knowledge Graph (TKGs) for Natural Language Processing
 
 🌱 I’m currently learning
 - lambeq, Qiskit
