@@ -3,12 +3,11 @@
 ---
 
 🔭 I’m currently working on
-- Product Manager at Dragonfruit AI
 - Research on Temporal Knowledge Graph (TKGs) for Natural Language Processing
 
 🌱 I’m currently learning
-- lambeq, Qiskit
-- How to Ollie
+- Multimodal Representation, Question Answering via TKG, and Interpolation and Extrapolation tasks.
+- Apache Spark, Kubeflow
 
 📫 More about me
 <div id="badges" align="center">
