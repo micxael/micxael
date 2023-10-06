@@ -3,10 +3,10 @@
 ---
 
 🔭 I’m currently working on
-- Research on Temporal Knowledge Graph (TKGs) for Natural Language Processing
+- (Graph) Representation Learning & Reinforcement Learning
 
 🌱 I’m currently learning
-- Multimodal Representation, Question Answering via TKG, and Interpolation and Extrapolation tasks.
+- Multimodal Representation, multi-agent Deep-RL.
 - Apache Spark, Kubeflow
 
 📫 More about me
